@@ -1,13 +1,15 @@
 
 
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/3Q2hJ4FLN1UvS" width="400" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<img src="https://zupimages.net/up/23/11/l1ba.jpg" width="310">
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/juliette-guenard-2a11ba220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://julietteguenard.my.canva.site/">
-    <img src="https://img.shields.io/badge/MY CREATIVE PORTFOLIO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/MY CREATIVE PORTFOLIO-red?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
