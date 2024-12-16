@@ -48,10 +48,10 @@
 </div>
 </div>
 
-- 🔭 I’m currently working on Unity !
-- 🌱 I’m currently learning game programming, IOT, datasciences (python) at Ynov Nantes
+- 🔭 I’m currently working at Capgemini and I am training as an application designer and developer at ENI!
+- 🌱 I’m currently using languages JAVA(springboot) for backend and JS(vue) for frontend
 - 👯 I’m looking to create a support app for first year medical students
-- 💬 Ask me about php, mysql, c# and python !
+- 💬 Ask me about java, js, php, mysql, c# and python !
 - 📫 How to reach me: juliettegue85@gmail.com
 - ⚡ Fun fact: why do programmers wear glasses ? Cause they can't see sharp (c# haha)
 
