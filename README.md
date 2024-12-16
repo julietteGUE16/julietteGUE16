@@ -26,7 +26,7 @@
   <img src="img\cplusplus-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;
   <img src="img\csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="img\go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-   <h4>DATASCIENCE</h4>
+   <h2>DATASCIENCE</h2>
    <img src="img\pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
    <img src="img\python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <h2>FRAMEWORKS</h2>
